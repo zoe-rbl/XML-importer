@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Person>
+    <co-worker id="1254">
+        <name>Riebel</name>
+        <surname>Zoe</surname>
+        <function>Trainee</function>
+    </co-worker>
+    <co-worker id="4589">
+        <name>Borgers</name>
+        <surname>Joel</surname>
+        <function>Trainee</function>
+    </co-worker>
+    <co-worker id="7854">
+        <name>Rheinert</name>
+        <surname>Pascal</surname>
+        <function>Director</function>
+    </co-worker>
+</Person>
